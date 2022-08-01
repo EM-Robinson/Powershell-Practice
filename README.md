@@ -1,2 +1,2 @@
 # Powershell-Practice
-Miscellaneous scripts I have written to help practice PowerShell.  
+Miscellaneous scripts and excercises I have done in my free time to help practice PowerShell.  
